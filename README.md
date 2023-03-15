@@ -1,2 +1,2 @@
-# Alura-Layouts-Responsivos
-Aula de Layoutes Responsivos da Alura - Formação Front-End
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
